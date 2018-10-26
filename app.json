@@ -1,0 +1,23 @@
+{
+  "id": "f5b185bd-d9e1-4b61-a3cb-af8097ec5557",
+  "name": "PP-Santander",
+  "publisher": "Olister",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.4",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "1.0"
+}
